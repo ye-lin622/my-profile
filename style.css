@@ -1,0 +1,42 @@
+body{
+  background-color: rgb(131,175,155);
+  color:black;
+  font-family: Times New Roman;
+  font-size: 20px;
+}
+
+h1{
+	color: rgb(3,22,52);
+	font-family: Times New Roman;
+	font-size: 40px;
+  letter-spacing: 10px;
+}
+h2{
+  color: rgb(32,36,46);
+  font-family: Times New Roman;
+  font-size: 25px;
+}
+a{
+  text-decoration: none;
+}
+.container{
+  width: 700px;
+  margin:40px auto;
+}
+.card-white{
+  background-color: rgb(249,205,173); 
+  padding: 40px;
+  box-shadow:0px,10px,30px rgb(0,0,0,0.1);
+  border-radius: 4px;
+  margin: 20px 0px;
+  text-align: center;
+}
+.img-circle{
+  border-radius:50%;
+}
+.btn-black{
+  background-color: rgb(252,157,154);
+  color: white;
+  padding: 15px 20px;
+  border-radius: 4px;
+}
